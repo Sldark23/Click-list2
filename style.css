@@ -1,0 +1,11 @@
+html {
+  height: 100%;
+  width: 100%;
+background-color: black;
+  
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #ffffff; /* código hexadecimal para a cor branca */
+}
